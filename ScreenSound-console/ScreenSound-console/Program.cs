@@ -10,11 +10,11 @@ void ShowMenuOptions()
     Console.WriteLine("Welcome To ScreenSound\n");
     Console.WriteLine("Type 1 to register a band");
     Console.WriteLine("Type 2 to show all bands");
-    Console.WriteLine("Type 3 to give ratings to a band");
-    Console.WriteLine("Type 4 to bands' average rating");
+    Console.WriteLine("Type 3 to rate a band");
+    Console.WriteLine("Type 4 to view band's average rating");
     Console.WriteLine("Type -1 to sign off. \n");
 
-    Console.Write("Type your option: ");
+    Console.Write("Enter your option: ");
     int op = int.Parse(Console.ReadLine()!);
 
     switch (op)
@@ -45,8 +45,8 @@ ShowMenuOptions();
 void BandRegister()
 {
     Console.Clear();
-    ShowOptionTitles("Band Register");
-    Console.Write("Type in the band's name you want to register: ");
+    ShowOptionTitles("Band Registration");
+    Console.Write("Enter the name of the band you want to register: ");
     string bandName = Console.ReadLine()!;
     registeredBands.Add(bandName, new List<int>());
 
@@ -58,7 +58,7 @@ void BandRegister()
 void ShowBands()
 {
     Console.Clear();
-    ShowOptionTitles("Showing All Registered Bands");
+    ShowOptionTitles("All Registered Bands");
 
     foreach (string band in registeredBands.Keys)
     {
@@ -66,7 +66,7 @@ void ShowBands()
         Console.WriteLine($"Band Rating: {registeredBands[band]}");
     }
 
-    Console.WriteLine("\nPress any key to show the menu options.");
+    Console.WriteLine("\nPress any key to return to the menu.");
     Console.ReadKey();
     ShowMenuOptions();
 }
@@ -74,24 +74,24 @@ void ShowBands()
 void RateBands()
 {
     Console.Clear();
-    ShowOptionTitles("Rating Your Favorite Band!");
+    ShowOptionTitles("Rate Your Favorite Band!");
 
     Console.Write("Choose a band to rate: ");
     string bandName = Console.ReadLine()!;
 
     if (registeredBands.ContainsKey(bandName))
     {
-        Console.Write($"Give your rating to {bandName}: ");
+        Console.Write($"Enter your rating for {bandName}: ");
         int rating = int.Parse(Console.ReadLine()!);
         registeredBands[bandName].Add(rating);
-        Console.WriteLine("\nYour rating was registered successfully.");
+        Console.WriteLine("\nYour rating has been successfully registered .");
         Thread.Sleep(2500);
         Console.Clear();
     }
     else
     {
         Console.WriteLine($"\nBand {bandName} was not found.");
-        Console.WriteLine("Press any key to show the menu options.");
+        Console.WriteLine("\nPress any key to return to the menu.");
         Console.ReadKey();
     }
 
@@ -101,14 +101,14 @@ void RateBands()
 void ShowBandsAverageRating()
 {
     Console.Clear();
-    ShowOptionTitles("Show Your Favorite Band Average Rating");
+    ShowOptionTitles("View Favorite Band's Average Rating");
 
-    Console.Write("Choose a band to see its rating: ");
+    Console.Write("Choose a band to see its average rating: ");
     string bandName = Console.ReadLine()!;
     if (!registeredBands.ContainsKey(bandName))
     {
         Console.WriteLine($"Band {bandName} was not found.\n");
-        Console.WriteLine("Press any key to show the menu options.");
+        Console.WriteLine("\nPress any key to return to the menu.");
         Console.ReadKey();
         ShowMenuOptions();
     }
@@ -116,11 +116,11 @@ void ShowBandsAverageRating()
     double rating = registeredBands[bandName].Average();
     if (rating <= 0)
     {
-        Console.WriteLine($"Band {bandName} was not rated yet.");
+        Console.WriteLine($"Band {bandName} has not been rated yet.");
     }
     else
     {
-        Console.WriteLine($"Band {bandName} average rating is {rating}");
+        Console.WriteLine($"The average rating for the band {bandName} is {rating:F2}.");
     }
 
     Thread.Sleep(2500);

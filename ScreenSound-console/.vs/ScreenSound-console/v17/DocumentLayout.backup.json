@@ -1,9 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\guilh\\source\\repos\\ScreenSound-console\\",
+  "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-console\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B7B6915-D7FD-4E9F-86E2-DF795F7C492C}|ScreenSound-console\\ScreenSound-console.csproj|c:\\users\\guilh\\source\\repos\\screensound-console\\screensound-console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\C#\\Guess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7B6915-D7FD-4E9F-86E2-DF795F7C492C}|ScreenSound-console\\ScreenSound-console.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\csharp-hub\\screensound-console\\screensound-console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B7B6915-D7FD-4E9F-86E2-DF795F7C492C}|ScreenSound-console\\ScreenSound-console.csproj|solutionrelative:screensound-console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +22,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Guess.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\C#\\Guess.cs",
+              "RelativeDocumentMoniker": "..\\..\\C#\\Guess.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\C#\\Guess.cs",
+              "RelativeToolTip": "..\\..\\C#\\Guess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:37:58.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-console\\ScreenSound-console\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-console\\ScreenSound-console\\Program.cs",
               "RelativeDocumentMoniker": "ScreenSound-console\\Program.cs",
-              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-console\\ScreenSound-console\\Program.cs*",
-              "RelativeToolTip": "ScreenSound-console\\Program.cs*",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAIwIIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-console\\ScreenSound-console\\Program.cs",
+              "RelativeToolTip": "ScreenSound-console\\Program.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T18:26:15.725Z",
               "EditorCaption": ""
