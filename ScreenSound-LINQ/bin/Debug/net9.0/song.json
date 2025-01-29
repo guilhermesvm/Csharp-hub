@@ -1,0 +1,20 @@
+{
+    "artist": "Adele",
+    "song": "Someone Like You",
+    "duration_ms": 300000,
+    "explicit": "False",
+    "year": "2011",
+    "popularity": "90",
+    "danceability": "0.65",
+    "energy": "0.45",
+    "key": 11,
+    "loudness": "-5.5",
+    "mode": "1",
+    "speechiness": "0.030",
+    "acousticness": "0.58",
+    "instrumentalness": "0.003",
+    "liveness": "0.12",
+    "valence": "0.8",
+    "tempo": "75.0",
+    "genre": "pop"
+}

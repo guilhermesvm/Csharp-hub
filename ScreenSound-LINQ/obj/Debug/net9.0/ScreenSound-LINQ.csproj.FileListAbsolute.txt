@@ -1,0 +1,14 @@
+C:\Users\guilh\source\repos\ScreenSound-LINQ\bin\Debug\net9.0\ScreenSound-LINQ.exe
+C:\Users\guilh\source\repos\ScreenSound-LINQ\bin\Debug\net9.0\ScreenSound-LINQ.deps.json
+C:\Users\guilh\source\repos\ScreenSound-LINQ\bin\Debug\net9.0\ScreenSound-LINQ.runtimeconfig.json
+C:\Users\guilh\source\repos\ScreenSound-LINQ\bin\Debug\net9.0\ScreenSound-LINQ.dll
+C:\Users\guilh\source\repos\ScreenSound-LINQ\bin\Debug\net9.0\ScreenSound-LINQ.pdb
+C:\Users\guilh\source\repos\ScreenSound-LINQ\obj\Debug\net9.0\ScreenSound-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\ScreenSound-LINQ\obj\Debug\net9.0\ScreenSound-LINQ.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\ScreenSound-LINQ\obj\Debug\net9.0\ScreenSound-LINQ.AssemblyInfo.cs
+C:\Users\guilh\source\repos\ScreenSound-LINQ\obj\Debug\net9.0\ScreenSound-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\ScreenSound-LINQ\obj\Debug\net9.0\ScreenSound-LINQ.dll
+C:\Users\guilh\source\repos\ScreenSound-LINQ\obj\Debug\net9.0\refint\ScreenSound-LINQ.dll
+C:\Users\guilh\source\repos\ScreenSound-LINQ\obj\Debug\net9.0\ScreenSound-LINQ.pdb
+C:\Users\guilh\source\repos\ScreenSound-LINQ\obj\Debug\net9.0\ScreenSound-LINQ.genruntimeconfig.cache
+C:\Users\guilh\source\repos\ScreenSound-LINQ\obj\Debug\net9.0\ref\ScreenSound-LINQ.dll
