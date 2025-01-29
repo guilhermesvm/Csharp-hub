@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\guilh\\source\\repos\\ScreenSound-OOP\u002B\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|c:\\users\\guilh\\source\\repos\\screensound-oop\u002B\u002B\\screensound-oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|solutionrelative:screensound-oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|c:\\users\\guilh\\source\\repos\\screensound-oop\u002B\u002B\\screensound-oop\\menus\\menuregisterband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|solutionrelative:screensound-oop\\menus\\menuregisterband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|c:\\users\\guilh\\source\\repos\\screensound-oop\u002B\u002B\\screensound-oop\\menus\\menushowbanddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|solutionrelative:screensound-oop\\menus\\menushowbanddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|c:\\users\\guilh\\source\\repos\\screensound-oop\u002B\u002B\\screensound-oop\\menus\\menuregisterband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|solutionrelative:screensound-oop\\menus\\menuregisterband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|c:\\users\\guilh\\source\\repos\\screensound-oop\u002B\u002B\\screensound-oop\\models\\band.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|solutionrelative:screensound-oop\\models\\band.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|c:\\users\\guilh\\source\\repos\\screensound-oop\u002B\u002B\\screensound-oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|solutionrelative:screensound-oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -43,31 +43,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MenuRegisterBand.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-OOP\u002B\u002B\\ScreenSound-OOP\\Menus\\MenuRegisterBand.cs",
               "RelativeDocumentMoniker": "ScreenSound-OOP\\Menus\\MenuRegisterBand.cs",
               "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-OOP\u002B\u002B\\ScreenSound-OOP\\Menus\\MenuRegisterBand.cs",
               "RelativeToolTip": "ScreenSound-OOP\\Menus\\MenuRegisterBand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T17:10:20.414Z"
+              "WhenOpened": "2025-01-27T17:10:20.414Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Band.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-OOP\u002B\u002B\\ScreenSound-OOP\\Models\\Band.cs",
               "RelativeDocumentMoniker": "ScreenSound-OOP\\Models\\Band.cs",
               "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-OOP\u002B\u002B\\ScreenSound-OOP\\Models\\Band.cs",
               "RelativeToolTip": "ScreenSound-OOP\\Models\\Band.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwBcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T17:10:14.116Z"
+              "WhenOpened": "2025-01-27T17:10:14.116Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-OOP\u002B\u002B\\ScreenSound-OOP\\Program.cs",
               "RelativeDocumentMoniker": "ScreenSound-OOP\\Program.cs",

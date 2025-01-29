@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D2GsNJlsoF4=",
+  "dgSpecHash": "hDjcfXyafHo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\guilh\\source\\repos\\ScreenSound-OOP++\\ScreenSound-OOP\\ScreenSound-OOP.csproj",
+  "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Csharp-hub\\ScreenSound-OOP++\\ScreenSound-OOP\\ScreenSound-OOP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\google_generativeai\\1.0.2\\google_generativeai.1.0.2.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

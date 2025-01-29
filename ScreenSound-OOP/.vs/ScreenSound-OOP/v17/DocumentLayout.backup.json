@@ -1,9 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\guilh\\source\\repos\\ScreenSound-OOP\\",
+  "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\Exercises\\Stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\csharp-hub\\screensound-oop\\screensound-oop\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|solutionrelative:screensound-oop\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\csharp-hub\\screensound-oop\\screensound-oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|solutionrelative:screensound-oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\csharp-hub\\screensound-oop\\screensound-oop\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|solutionrelative:screensound-oop\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\csharp-hub\\screensound-oop\\screensound-oop\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|solutionrelative:screensound-oop\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Stock.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\Exercises\\Stock.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\Exercises\\Stock.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\Exercises\\Stock.cs",
-              "RelativeToolTip": "..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\Exercises\\Stock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\\ScreenSound-OOP\\Song.cs",
+              "RelativeDocumentMoniker": "ScreenSound-OOP\\Song.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\\ScreenSound-OOP\\Song.cs",
+              "RelativeToolTip": "ScreenSound-OOP\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T17:46:39.49Z",
+              "WhenOpened": "2025-01-29T17:53:17.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\\ScreenSound-OOP\\Album.cs",
+              "RelativeDocumentMoniker": "ScreenSound-OOP\\Album.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\\ScreenSound-OOP\\Album.cs",
+              "RelativeToolTip": "ScreenSound-OOP\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:19:10.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\\ScreenSound-OOP\\Podcast.cs",
+              "RelativeDocumentMoniker": "ScreenSound-OOP\\Podcast.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\\ScreenSound-OOP\\Podcast.cs",
+              "RelativeToolTip": "ScreenSound-OOP\\Podcast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:19:08.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\\ScreenSound-OOP\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenSound-OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\\ScreenSound-OOP\\Program.cs",
+              "RelativeToolTip": "ScreenSound-OOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:19:00.925Z",
               "EditorCaption": ""
             }
           ]

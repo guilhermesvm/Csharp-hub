@@ -1,26 +1,26 @@
 ﻿class Album
 {
     public string Name { get; }
-    public int TotalDuration => _musicList.Sum(music => music.Duration);
+    public int TotalDuration => _songList.Sum(song => song.Duration);
   
-    private List<Music> _musicList = new List<Music>();
+    private List<Song> _songList = new List<Song>();
     public Album(string name)
     {
         this.Name = name;
     }
 
-    public void AddMusic(Music music)
+    public void AddSong(Song song)
     {
-        _musicList.Add(music);
+        _songList.Add(song);
     }
 
-    public void ShowAlbumMusics()
+    public void ShowAlbumSongs()
     {
-        Console.WriteLine($"Music List From {Name}");
+        Console.WriteLine($"Song List From {Name}");
         Console.WriteLine($"Total duration: {TotalDuration}");
-        foreach(Music music in _musicList)
+        foreach(Song song in _songList)
         {
-            Console.WriteLine($"Music: {music.Name}");
+            Console.WriteLine($"Song: {song.Name}");
         }
         Console.WriteLine();
     }

@@ -1,4 +1,4 @@
-﻿class Music
+﻿class Song
 {
     public string Name { get; }
     public Band Artist { get; }
@@ -6,13 +6,13 @@
     public bool Available { get; set; }
     public string Description => $"Song {Name} belongs to {Artist}";
 
-    public Music(Band artist, string name)
+    public Song(Band artist, string name)
     {
         this.Artist = artist;
         this.Name = name;
     }
     
-    public void ShowMusicProperties()
+    public void ShowSongProperties()
     {
         Console.WriteLine($"Name: {Name}.");
         Console.WriteLine($"Artist: {Artist.Name}");

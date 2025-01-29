@@ -5,7 +5,7 @@ internal class Album : IRateble
     public string Name { get; }
 
     public static int AlbumCount = 0;
-    public int TotalDuration => _musicList.Sum(music => music.Duration);
+    public int TotalDuration => _songList.Sum(song => song.Duration);
 
     public double Average {
         get
@@ -15,7 +15,7 @@ internal class Album : IRateble
         }
     }
 
-    private List<Music> _musicList = new List<Music>();
+    private List<Song> _songList = new List<Song>();
     private List<Rating> _ratingList = new List<Rating>();
     public Album(string name)
     {
@@ -23,9 +23,9 @@ internal class Album : IRateble
         AlbumCount++;
     }
 
-    public void AddMusic(Music music)
+    public void AddSong(Song song)
     {
-        _musicList.Add(music);
+        _songList.Add(song);
     }
 
     public void AddRating(params Rating[] ratings)
@@ -33,13 +33,13 @@ internal class Album : IRateble
         _ratingList.AddRange(ratings);
     }
 
-    public void ShowAlbumMusics()
+    public void ShowAlbumSongs()
     {
-        Console.WriteLine($"Music List From {Name}");
+        Console.WriteLine($"Song List From {Name}");
         Console.WriteLine($"Total duration: {TotalDuration}");
-        foreach(Music music in _musicList)
+        foreach(Song song in _songList)
         {
-            Console.WriteLine($"Music: {music.Name}");
+            Console.WriteLine($"Song: {song.Name}");
         }
         Console.WriteLine();
     }

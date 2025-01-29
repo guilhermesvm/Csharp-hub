@@ -12,3 +12,18 @@ C:\Users\guilh\source\repos\ScreenSound-OOP\ScreenSound-OOP\obj\Debug\net9.0\ref
 C:\Users\guilh\source\repos\ScreenSound-OOP\ScreenSound-OOP\obj\Debug\net9.0\ScreenSound-OOP.pdb
 C:\Users\guilh\source\repos\ScreenSound-OOP\ScreenSound-OOP\obj\Debug\net9.0\ScreenSound-OOP.genruntimeconfig.cache
 C:\Users\guilh\source\repos\ScreenSound-OOP\ScreenSound-OOP\obj\Debug\net9.0\ref\ScreenSound-OOP.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Csharp-hub\ScreenSound-OOP\ScreenSound-OOP\bin\Debug\net9.0\ScreenSound-OOP.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Csharp-hub\ScreenSound-OOP\ScreenSound-OOP\bin\Debug\net9.0\ScreenSound-OOP.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Csharp-hub\ScreenSound-OOP\ScreenSound-OOP\bin\Debug\net9.0\ScreenSound-OOP.runtimeconfig.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Csharp-hub\ScreenSound-OOP\ScreenSound-OOP\bin\Debug\net9.0\ScreenSound-OOP.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Csharp-hub\ScreenSound-OOP\ScreenSound-OOP\bin\Debug\net9.0\ScreenSound-OOP.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Csharp-hub\ScreenSound-OOP\ScreenSound-OOP\obj\Debug\net9.0\ScreenSound-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\Csharp-hub\ScreenSound-OOP\ScreenSound-OOP\obj\Debug\net9.0\ScreenSound-OOP.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Csharp-hub\ScreenSound-OOP\ScreenSound-OOP\obj\Debug\net9.0\ScreenSound-OOP.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\Csharp-hub\ScreenSound-OOP\ScreenSound-OOP\obj\Debug\net9.0\ScreenSound-OOP.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Csharp-hub\ScreenSound-OOP\ScreenSound-OOP\obj\Debug\net9.0\ScreenSound-OOP.sourcelink.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Csharp-hub\ScreenSound-OOP\ScreenSound-OOP\obj\Debug\net9.0\ScreenSound-OOP.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Csharp-hub\ScreenSound-OOP\ScreenSound-OOP\obj\Debug\net9.0\refint\ScreenSound-OOP.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Csharp-hub\ScreenSound-OOP\ScreenSound-OOP\obj\Debug\net9.0\ScreenSound-OOP.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Csharp-hub\ScreenSound-OOP\ScreenSound-OOP\obj\Debug\net9.0\ScreenSound-OOP.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Csharp-hub\ScreenSound-OOP\ScreenSound-OOP\obj\Debug\net9.0\ref\ScreenSound-OOP.dll
