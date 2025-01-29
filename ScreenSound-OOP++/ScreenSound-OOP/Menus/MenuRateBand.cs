@@ -12,21 +12,19 @@ internal class MenuRateBand : Menu
         Console.Write("Enter the name of the band you want to rate: ");
         string bandName = Console.ReadLine()!;
 
-        if (registeredBands.ContainsKey(bandName))
-        {
-            Console.Write($"Enter your rating for {bandName}: ");
-            Rating rating = Rating.Parse(Console.ReadLine()!);
-            registeredBands[bandName].AddRating(rating);
-            Console.WriteLine($"\nYour rating '{rating.Score}' has been successfully registered.");
-            Thread.Sleep(2500);
-            Console.Clear();
-
-        }
-        else
+        if (!registeredBands.ContainsKey(bandName))
         {
             Console.WriteLine($"\nBand {bandName} was not found.");
             Console.WriteLine("Press any key to return to the menu.");
             Console.ReadKey();
+            return;
         }
+
+        Console.Write($"Enter your rating for {bandName}: ");
+        Rating rating = Rating.Parse(Console.ReadLine()!);
+        registeredBands[bandName].AddRating(rating);
+        Console.WriteLine($"\nYour rating '{rating.Score}' has been successfully registered.");
+        Thread.Sleep(2500);
+        Console.Clear();
     }
 }
