@@ -1,0 +1,14 @@
+C:\Users\guilh\source\repos\ByteBank-FileIO\obj\Debug\net9.0\ByteBank-FileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\ByteBank-FileIO\obj\Debug\net9.0\ByteBank-FileIO.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\ByteBank-FileIO\obj\Debug\net9.0\ByteBank-FileIO.AssemblyInfo.cs
+C:\Users\guilh\source\repos\ByteBank-FileIO\obj\Debug\net9.0\ByteBank-FileIO.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\ByteBank-FileIO\bin\Debug\net9.0\ByteBank-FileIO.exe
+C:\Users\guilh\source\repos\ByteBank-FileIO\bin\Debug\net9.0\ByteBank-FileIO.deps.json
+C:\Users\guilh\source\repos\ByteBank-FileIO\bin\Debug\net9.0\ByteBank-FileIO.runtimeconfig.json
+C:\Users\guilh\source\repos\ByteBank-FileIO\bin\Debug\net9.0\ByteBank-FileIO.dll
+C:\Users\guilh\source\repos\ByteBank-FileIO\bin\Debug\net9.0\ByteBank-FileIO.pdb
+C:\Users\guilh\source\repos\ByteBank-FileIO\obj\Debug\net9.0\ByteBank-FileIO.dll
+C:\Users\guilh\source\repos\ByteBank-FileIO\obj\Debug\net9.0\refint\ByteBank-FileIO.dll
+C:\Users\guilh\source\repos\ByteBank-FileIO\obj\Debug\net9.0\ByteBank-FileIO.pdb
+C:\Users\guilh\source\repos\ByteBank-FileIO\obj\Debug\net9.0\ByteBank-FileIO.genruntimeconfig.cache
+C:\Users\guilh\source\repos\ByteBank-FileIO\obj\Debug\net9.0\ref\ByteBank-FileIO.dll

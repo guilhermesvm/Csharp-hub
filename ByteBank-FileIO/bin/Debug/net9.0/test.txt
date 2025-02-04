@@ -1,0 +1,3 @@
+Hello, World!
+Testing code decoding
+CharP-Chat is fun!
