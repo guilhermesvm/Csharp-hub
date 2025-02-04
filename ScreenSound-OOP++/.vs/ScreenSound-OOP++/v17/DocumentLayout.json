@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\u002B\u002B\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\csharp-hub\\screensound-oop\u002B\u002B\\screensound-oop\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|solutionrelative:screensound-oop\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\csharp-hub\\screensound-oop\u002B\u002B\\screensound-oop\\menus\\menushowbanddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6634BCB-017F-4E09-8EDB-A0FACA2DCCD8}|ScreenSound-OOP\\ScreenSound-OOP.csproj|solutionrelative:screensound-oop\\menus\\menushowbanddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\u002B\u002B\\ScreenSound-OOP\\Menus\\Menu.cs",
+              "RelativeDocumentMoniker": "ScreenSound-OOP\\Menus\\Menu.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\u002B\u002B\\ScreenSound-OOP\\Menus\\Menu.cs",
+              "RelativeToolTip": "ScreenSound-OOP\\Menus\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:05:44.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MenuShowBandDetails.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\u002B\u002B\\ScreenSound-OOP\\Menus\\MenuShowBandDetails.cs",
               "RelativeDocumentMoniker": "ScreenSound-OOP\\Menus\\MenuShowBandDetails.cs",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "ScreenSound-OOP\\Menus\\MenuShowBandDetails.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:19:56.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T18:19:56.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MenuRegisterBand.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\u002B\u002B\\ScreenSound-OOP\\Menus\\MenuRegisterBand.cs",
               "RelativeDocumentMoniker": "ScreenSound-OOP\\Menus\\MenuRegisterBand.cs",
@@ -59,12 +75,11 @@
               "RelativeToolTip": "ScreenSound-OOP\\Menus\\MenuRegisterBand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:19:55.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T18:19:55.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MenuRegisterAlbum.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\u002B\u002B\\ScreenSound-OOP\\Menus\\MenuRegisterAlbum.cs",
               "RelativeDocumentMoniker": "ScreenSound-OOP\\Menus\\MenuRegisterAlbum.cs",
@@ -72,12 +87,11 @@
               "RelativeToolTip": "ScreenSound-OOP\\Menus\\MenuRegisterAlbum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:19:54.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T18:19:54.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MenuRateBand.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\u002B\u002B\\ScreenSound-OOP\\Menus\\MenuRateBand.cs",
               "RelativeDocumentMoniker": "ScreenSound-OOP\\Menus\\MenuRateBand.cs",
@@ -85,12 +99,11 @@
               "RelativeToolTip": "ScreenSound-OOP\\Menus\\MenuRateBand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:19:17.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T18:19:17.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MenuRateAlbum.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\u002B\u002B\\ScreenSound-OOP\\Menus\\MenuRateAlbum.cs",
               "RelativeDocumentMoniker": "ScreenSound-OOP\\Menus\\MenuRateAlbum.cs",
@@ -98,12 +111,11 @@
               "RelativeToolTip": "ScreenSound-OOP\\Menus\\MenuRateAlbum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:19:15.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T18:19:15.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-OOP\u002B\u002B\\ScreenSound-OOP\\Program.cs",
               "RelativeDocumentMoniker": "ScreenSound-OOP\\Program.cs",
@@ -111,8 +123,7 @@
               "RelativeToolTip": "ScreenSound-OOP\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T16:37:17.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T16:37:17.017Z"
             }
           ]
         }

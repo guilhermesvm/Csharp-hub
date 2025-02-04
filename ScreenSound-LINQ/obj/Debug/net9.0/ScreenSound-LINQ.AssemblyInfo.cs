@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScreenSound-LINQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bddb1d4a0c1f4d18a73cae5038395faa5c10951")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScreenSound-LINQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScreenSound-LINQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

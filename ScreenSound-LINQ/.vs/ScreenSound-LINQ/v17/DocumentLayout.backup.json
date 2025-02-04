@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\guilh\\source\\repos\\ScreenSound-LINQ\\",
+  "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-LINQ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{802F5ABA-DC99-412E-BBCF-24EE6FD50A08}|ScreenSound-LINQ.csproj|c:\\users\\guilh\\source\\repos\\screensound-linq\\filters\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{802F5ABA-DC99-412E-BBCF-24EE6FD50A08}|ScreenSound-LINQ.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\csharp-hub\\screensound-linq\\filters\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{802F5ABA-DC99-412E-BBCF-24EE6FD50A08}|ScreenSound-LINQ.csproj|solutionrelative:filters\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{802F5ABA-DC99-412E-BBCF-24EE6FD50A08}|ScreenSound-LINQ.csproj|c:\\users\\guilh\\source\\repos\\screensound-linq\\filters\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{802F5ABA-DC99-412E-BBCF-24EE6FD50A08}|ScreenSound-LINQ.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\csharp-hub\\screensound-linq\\filters\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{802F5ABA-DC99-412E-BBCF-24EE6FD50A08}|ScreenSound-LINQ.csproj|solutionrelative:filters\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{802F5ABA-DC99-412E-BBCF-24EE6FD50A08}|ScreenSound-LINQ.csproj|c:\\users\\guilh\\source\\repos\\screensound-linq\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{802F5ABA-DC99-412E-BBCF-24EE6FD50A08}|ScreenSound-LINQ.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\csharp-hub\\screensound-linq\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{802F5ABA-DC99-412E-BBCF-24EE6FD50A08}|ScreenSound-LINQ.csproj|solutionrelative:models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{802F5ABA-DC99-412E-BBCF-24EE6FD50A08}|ScreenSound-LINQ.csproj|c:\\users\\guilh\\source\\repos\\screensound-linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{802F5ABA-DC99-412E-BBCF-24EE6FD50A08}|ScreenSound-LINQ.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\csharp-hub\\screensound-linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{802F5ABA-DC99-412E-BBCF-24EE6FD50A08}|ScreenSound-LINQ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,17 +26,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LinqOrder.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-LINQ\\Filters\\LinqOrder.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-LINQ\\Filters\\LinqOrder.cs",
               "RelativeDocumentMoniker": "Filters\\LinqOrder.cs",
-              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-LINQ\\Filters\\LinqOrder.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-LINQ\\Filters\\LinqOrder.cs",
               "RelativeToolTip": "Filters\\LinqOrder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T17:12:36.418Z",
               "EditorCaption": ""
@@ -45,40 +53,37 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LinqFilter.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-LINQ\\Filters\\LinqFilter.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-LINQ\\Filters\\LinqFilter.cs",
               "RelativeDocumentMoniker": "Filters\\LinqFilter.cs",
-              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-LINQ\\Filters\\LinqFilter.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-LINQ\\Filters\\LinqFilter.cs",
               "RelativeToolTip": "Filters\\LinqFilter.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T14:10:43.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T14:10:43.867Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Song.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-LINQ\\Models\\Song.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-LINQ\\Models\\Song.cs",
               "RelativeDocumentMoniker": "Models\\Song.cs",
-              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-LINQ\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-LINQ\\Models\\Song.cs",
               "RelativeToolTip": "Models\\Song.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T20:37:11.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T20:37:11.325Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-LINQ\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-LINQ\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Csharp-hub\\ScreenSound-LINQ\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T18:10:00.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T18:10:00.83Z"
             }
           ]
         }
