@@ -8,7 +8,8 @@ partial class Program
         //HandlingStreamReader();
         //CreatingFile();
         //HandlingStreamWriter();
-        BinaryWriter();
-        BinaryStream();
+        //BinaryWriter();
+        //BinaryStream();
+        ConsoleStream();
     }
 }

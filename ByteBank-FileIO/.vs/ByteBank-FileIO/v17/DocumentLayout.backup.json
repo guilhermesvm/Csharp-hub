@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|c:\\users\\guilh\\source\\repos\\bytebank-fileio\\5_binary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|solutionrelative:5_binary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|c:\\users\\guilh\\source\\repos\\bytebank-fileio\\2_streamreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|solutionrelative:2_streamreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|c:\\users\\guilh\\source\\repos\\bytebank-fileio\\1_filestreamdecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|solutionrelative:1_filestreamdecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|c:\\users\\guilh\\source\\repos\\bytebank-fileio\\6_consolestream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|solutionrelative:6_consolestream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|c:\\users\\guilh\\source\\repos\\bytebank-fileio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|c:\\users\\guilh\\source\\repos\\bytebank-fileio\\4_streamwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|solutionrelative:4_streamwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|c:\\users\\guilh\\source\\repos\\bytebank-fileio\\5_binary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|solutionrelative:5_binary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|c:\\users\\guilh\\source\\repos\\bytebank-fileio\\3_filestreamencode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|solutionrelative:3_filestreamencode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|c:\\users\\guilh\\source\\repos\\bytebank-fileio\\1_filestreamdecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5830E34D-4B44-4558-9A25-9F57B049E216}|ByteBank-FileIO.csproj|solutionrelative:1_filestreamdecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,45 +34,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "1_FileStreamDecode.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\1_FileStreamDecode.cs",
-              "RelativeDocumentMoniker": "1_FileStreamDecode.cs",
-              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\1_FileStreamDecode.cs",
-              "RelativeToolTip": "1_FileStreamDecode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Title": "4_StreamWriter.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\4_StreamWriter.cs",
+              "RelativeDocumentMoniker": "4_StreamWriter.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\4_StreamWriter.cs",
+              "RelativeToolTip": "4_StreamWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T18:33:53.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T18:31:44.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "5_Binary.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\5_Binary.cs",
-              "RelativeDocumentMoniker": "5_Binary.cs",
-              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\5_Binary.cs",
-              "RelativeToolTip": "5_Binary.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwB8AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T18:09:54.457Z",
+              "WhenOpened": "2025-02-06T00:00:21.225Z",
               "EditorCaption": ""
             },
             {
@@ -77,15 +59,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "2_StreamReader.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\2_StreamReader.cs",
-              "RelativeDocumentMoniker": "2_StreamReader.cs",
-              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\2_StreamReader.cs",
-              "RelativeToolTip": "2_StreamReader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "3_FileStreamEncode.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\3_FileStreamEncode.cs",
+              "RelativeDocumentMoniker": "3_FileStreamEncode.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\3_FileStreamEncode.cs",
+              "RelativeToolTip": "3_FileStreamEncode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T17:35:07.179Z",
+              "WhenOpened": "2025-02-06T00:08:32.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6_ConsoleStream.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\6_ConsoleStream.cs",
+              "RelativeDocumentMoniker": "6_ConsoleStream.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\6_ConsoleStream.cs",
+              "RelativeToolTip": "6_ConsoleStream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:01:55.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:00:14.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "1_FileStreamDecode.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\1_FileStreamDecode.cs",
+              "RelativeDocumentMoniker": "1_FileStreamDecode.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\1_FileStreamDecode.cs",
+              "RelativeToolTip": "1_FileStreamDecode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:11:26.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "5_Binary.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\5_Binary.cs",
+              "RelativeDocumentMoniker": "5_Binary.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ByteBank-FileIO\\5_Binary.cs",
+              "RelativeToolTip": "5_Binary.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:09:54.457Z",
               "EditorCaption": ""
             }
           ]
