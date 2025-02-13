@@ -14,7 +14,7 @@ internal class Menu
         Console.WriteLine(asterisks + "\n");
     }
 
-    public virtual void Execute(ArtistRepository artistRepository)
+    public virtual void Execute(GenericRepository<Artist> repository)
     {
         Console.Clear();
     }

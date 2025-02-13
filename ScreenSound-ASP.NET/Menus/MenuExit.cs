@@ -5,7 +5,7 @@ namespace ScreenSound_ASP.NET.Menus;
 
 internal class MenuExit : Menu
 {
-    public override void Execute(ArtistRepository artistRepository)
+    public override void Execute(GenericRepository<Artist> repository)
     {
         Console.WriteLine("Goodbye :)");
     }

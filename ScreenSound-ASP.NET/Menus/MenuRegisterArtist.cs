@@ -5,9 +5,9 @@ namespace ScreenSound_ASP.NET.Menus;
 
 internal class MenuRegisterArtist : Menu
 {
-    public override void Execute(ArtistRepository artistRepository)
+    public override void Execute(GenericRepository<Artist> repository)
     {
-        base.Execute(artistRepository);
+        base.Execute(repository);
         DisplayOptionTitle("Artist Registration");
 
         Console.Write("Enter the name of the artist you want to register: ");
@@ -16,7 +16,7 @@ internal class MenuRegisterArtist : Menu
         string artistBio = Console.ReadLine()!;
 
         Artist artist = new Artist(artistName, artistBio);
-        artistRepository.Create(artist);
+        repository.Create(artist);
 
         Console.WriteLine($"The artist {artistName} has been successfully registered!");
         Thread.Sleep(4000);
