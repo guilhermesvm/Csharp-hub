@@ -22,9 +22,22 @@ internal class MenuRegisterSong : Menu
             return;
         }
 
-        Console.Write("Now enter the song title: ");
-        string songTitle = Console.ReadLine()!;
-        artist.AddSong(new Song(songTitle));
+        Console.Write("Enter the song title: ");
+        string songTitle = Console.ReadLine();
+
+        Console.Write("Now, enter the year the song was released: ");
+        string input = Console.ReadLine()!;
+        if(!int.TryParse(input, out int songYear))
+        {
+            Console.WriteLine("Invalid input."); 
+            return;
+        }
+
+        artist.AddSong(new Song(songTitle) 
+        { ReleaseYear = songYear});
+
+        repository.Update(artist);
+
         Console.WriteLine($"The song {songTitle} by {artistName} has been successfully registered!");
         Thread.Sleep(4000);
         Console.Clear();

@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|c:\\users\\guilh\\source\\repos\\screensound-asp.net\\migrations\\20250213190905_populatesongtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|solutionrelative:migrations\\20250213190905_populatesongtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|c:\\users\\guilh\\source\\repos\\screensound-asp.net\\menus\\menushowsongsbyyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|solutionrelative:menus\\menushowsongsbyyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|c:\\users\\guilh\\source\\repos\\screensound-asp.net\\migrations\\20250213182439_populatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|solutionrelative:migrations\\20250213182439_populatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|c:\\users\\guilh\\source\\repos\\screensound-asp.net\\menus\\menushowsongs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|solutionrelative:menus\\menushowsongs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|c:\\users\\guilh\\source\\repos\\screensound-asp.net\\migrations\\20250213190241_addcolumnreleaseyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|solutionrelative:migrations\\20250213190241_addcolumnreleaseyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|c:\\users\\guilh\\source\\repos\\screensound-asp.net\\menus\\menuregistersong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|solutionrelative:menus\\menuregistersong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|c:\\users\\guilh\\source\\repos\\screensound-asp.net\\migrations\\20250213181421_initialproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|solutionrelative:migrations\\20250213181421_initialproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|c:\\users\\guilh\\source\\repos\\screensound-asp.net\\menus\\menushowartists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|solutionrelative:menus\\menushowartists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|c:\\users\\guilh\\source\\repos\\screensound-asp.net\\menus\\menuregisterartist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|solutionrelative:menus\\menuregisterartist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|c:\\users\\guilh\\source\\repos\\screensound-asp.net\\menus\\menuexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|solutionrelative:menus\\menuexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|c:\\users\\guilh\\source\\repos\\screensound-asp.net\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|solutionrelative:menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|c:\\users\\guilh\\source\\repos\\screensound-asp.net\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|solutionrelative:repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|c:\\users\\guilh\\source\\repos\\screensound-asp.net\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|solutionrelative:models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|c:\\users\\guilh\\source\\repos\\screensound-asp.net\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|solutionrelative:models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|c:\\users\\guilh\\source\\repos\\screensound-asp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E85B8-7A0D-464F-AD68-6911A15ABF78}|ScreenSound-ASP.NET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 12,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20250213182439_PopulateDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Migrations\\20250213182439_PopulateDatabase.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250213182439_PopulateDatabase.cs",
-              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Migrations\\20250213182439_PopulateDatabase.cs",
-              "RelativeToolTip": "Migrations\\20250213182439_PopulateDatabase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T19:11:43.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250213190905_PopulateSongTable.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Migrations\\20250213190905_PopulateSongTable.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250213190905_PopulateSongTable.cs",
-              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Migrations\\20250213190905_PopulateSongTable.cs",
-              "RelativeToolTip": "Migrations\\20250213190905_PopulateSongTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T19:09:05.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250213190241_AddColumnReleaseYear.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Migrations\\20250213190241_AddColumnReleaseYear.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250213190241_AddColumnReleaseYear.cs",
-              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Migrations\\20250213190241_AddColumnReleaseYear.cs",
-              "RelativeToolTip": "Migrations\\20250213190241_AddColumnReleaseYear.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T19:04:41.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250213181421_InitialProject.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Migrations\\20250213181421_InitialProject.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250213181421_InitialProject.cs",
-              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Migrations\\20250213181421_InitialProject.cs",
-              "RelativeToolTip": "Migrations\\20250213181421_InitialProject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T19:03:10.65Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
@@ -87,6 +63,149 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuShowSongs.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Menus\\MenuShowSongs.cs",
+              "RelativeDocumentMoniker": "Menus\\MenuShowSongs.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Menus\\MenuShowSongs.cs",
+              "RelativeToolTip": "Menus\\MenuShowSongs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:05:09.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuShowArtists.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Menus\\MenuShowArtists.cs",
+              "RelativeDocumentMoniker": "Menus\\MenuShowArtists.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Menus\\MenuShowArtists.cs",
+              "RelativeToolTip": "Menus\\MenuShowArtists.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:05:06.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuRegisterSong.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Menus\\MenuRegisterSong.cs",
+              "RelativeDocumentMoniker": "Menus\\MenuRegisterSong.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Menus\\MenuRegisterSong.cs",
+              "RelativeToolTip": "Menus\\MenuRegisterSong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:05:05.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuRegisterArtist.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Menus\\MenuRegisterArtist.cs",
+              "RelativeDocumentMoniker": "Menus\\MenuRegisterArtist.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Menus\\MenuRegisterArtist.cs",
+              "RelativeToolTip": "Menus\\MenuRegisterArtist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:05:01.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuExit.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Menus\\MenuExit.cs",
+              "RelativeDocumentMoniker": "Menus\\MenuExit.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Menus\\MenuExit.cs",
+              "RelativeToolTip": "Menus\\MenuExit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:04:59.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:04:40.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "Models\\Song.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Models\\Song.cs",
+              "RelativeToolTip": "Models\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:04:32.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Models\\Artist.cs",
+              "RelativeToolTip": "Models\\Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:04:20.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Menus\\Menu.cs",
+              "RelativeDocumentMoniker": "Menus\\Menu.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Menus\\Menu.cs",
+              "RelativeToolTip": "Menus\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:03:54.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:03:48.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuShowSongsByYear.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Menus\\MenuShowSongsByYear.cs",
+              "RelativeDocumentMoniker": "Menus\\MenuShowSongsByYear.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\ScreenSound-ASP.NET\\Menus\\MenuShowSongsByYear.cs",
+              "RelativeToolTip": "Menus\\MenuShowSongsByYear.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:03:48.019Z",
+              "EditorCaption": ""
             }
           ]
         }

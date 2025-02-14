@@ -1,6 +1,6 @@
 ﻿namespace ScreenSound_ASP.NET.Models;
 
-internal class Song
+public class Song
 {
     public Song(string name)
     {
@@ -8,8 +8,9 @@ internal class Song
     }
 
     public int Id { get; set; }
-    public string Name { get; set; }
+    public string Name { get; set; } 
     public int? ReleaseYear  { get; set; }
+    public virtual Artist? Artist { get; set; }
 
     public void DisplayTechnicalDetails()
     {

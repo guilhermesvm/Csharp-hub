@@ -17,10 +17,16 @@ internal class GenericRepository<T> where T : class
         return _context.Set<T>().ToList();
     }
 
-    public T? GetBy(Func<T,bool> condition)
+    public IEnumerable<T>? GetAllBy(Func<T, bool> condition)
+    {
+        return _context.Set<T>().Where(condition).Distinct().Order().ToList();
+    }
+
+    public T? GetBy(Func<T, bool> condition)
     {
         return _context.Set<T>().FirstOrDefault(condition);
     }
+
     public void Create(T obj)
     {
         _context.Set<T>().Add(obj);

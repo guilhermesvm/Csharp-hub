@@ -8,7 +8,7 @@ internal class MenuShowSongs : Menu
     public override void Execute(GenericRepository<Artist> repository)
     {
         base.Execute(repository);
-        DisplayOptionTitle("Display artist details");
+        DisplayOptionTitle("Display Artist Details");
         
         Console.Write("Enter the name of the artist you want to know more about: ");
         string artistName = Console.ReadLine()!;
